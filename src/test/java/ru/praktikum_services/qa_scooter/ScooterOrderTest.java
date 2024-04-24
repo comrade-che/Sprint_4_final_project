@@ -13,7 +13,6 @@ import ru.praktikum_services.qa_scooter.pages.WhoIsOrderPage;
 
 
 public class ScooterOrderTest {
-    private WebDriverFactory webdriverfactory = new WebDriverFactory();
     private WebDriver webDriver;
 
     @Before
